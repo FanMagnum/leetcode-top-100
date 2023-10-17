@@ -35,3 +35,4 @@ if __name__ == '__main__':
     nums_list = [[-1,0,1,2,-1,-4], [0, 0, 0, 0, 0]]
     for nums in nums_list:
         print(Solution().threeSum(nums))
+                
